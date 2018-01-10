@@ -16,6 +16,8 @@
         <module>gateway2</module>
         <module>service</module>
         <module>service2</module>
+        <module>config-client</module>
+        <module>config-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
