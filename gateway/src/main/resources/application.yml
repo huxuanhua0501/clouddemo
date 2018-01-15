@@ -22,6 +22,7 @@ zuul:
   routes:
     service: /service/**
     service2: /config-client/**
+    service3: /service-hi/**
 #instance:
 #  metadata-map:
 #    user.name: admin
