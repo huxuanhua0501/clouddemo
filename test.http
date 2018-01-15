@@ -5,6 +5,8 @@ GET http://localhost:8083/service/service
 ###
 GET http://localhost:8090/hi?name=1231
 ###
+GET http://localhost:8088/hi?name=1231
+###
 GET http://localhost:8083/service-hi/hi?name=1231
 ###
 GET http://localhost:8090/hi?name=1231

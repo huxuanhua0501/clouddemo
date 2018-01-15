@@ -23,6 +23,7 @@ zuul:
     service: /service/**
     service2: /config-client/**
     service3: /service-hi/**
+    service4: /feign/**
 #instance:
 #  metadata-map:
 #    user.name: admin
