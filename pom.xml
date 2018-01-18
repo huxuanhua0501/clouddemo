@@ -21,6 +21,9 @@
         <module>service-ribbon</module>
         <module>service-ribbon-hi</module>
         <module>service-feign</module>
+        <module>service-zipken</module>
+        <module>service-miya</module>
+        <module>service-hi</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
